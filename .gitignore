@@ -135,8 +135,3 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# API key
-jbXBWpHy8jLm8tMcOSl8CB0SOHLYx2dU
-
-# API explore 
-https://api.giphy.com/v1/gifs/search?api_key=jbXBWpHy8jLm8tMcOSl8CB0SOHLYx2dU&q=gif&limit=25&offset=0&rating=g&lang=en&bundle=messaging_non_clips
